@@ -8,8 +8,8 @@
     <div class="nav-links" id="navLinks">
         <i class="fa fa-times" onclick="hideMenu()"></i>
         <ul>
-            <li><a href="/">ACCEUIL</a></li>
-            <li><a href="/service">SERVICE</a></li>
+            <li><a href="/">ACCUEIL</a></li>
+            <li><a href="/service">SERVICES</a></li>
             <li><a href="/contact">CONTACT</a></li>
             <li><a href="/a-propos">A PROPOS</a></li>
         </ul>

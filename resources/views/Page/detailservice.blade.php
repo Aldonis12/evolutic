@@ -16,7 +16,7 @@
         <div class="row">
             <div class="blog-left">
                 @if (request()->is('service/gestion-financiere'))
-                    <img src="{{ asset('assets/image/logo.png') }}" alt="">
+                    <img src="{{ asset('assets/image/compta.jpeg') }}" alt="">
                     <h2>Gestion Financière</h2>
                     <p>Nous croyons que la gestion financière n’est pas seulement une question de chiffres ; c’est le moteur qui propulse l’entreprise vers la stabilité et la croissance durable. C’est pourquoi nous avons développé une offre complète et intégrée pour accompagner nos clients dans tous les aspects de la gestion financière.</p>
                     <br>
@@ -76,7 +76,7 @@
                         </ul>
                     </p>
                 @elseif (request()->is('service/marketing-digital'))
-                    <img src="{{ asset('assets/image/logo.png') }}" alt="">
+                    <img src="{{ asset('assets/image/market.jpeg') }}" alt="">
                     <h2>Marketing Digital</h2>
                     <p>Dans une approche holistique du marketing digital, Evolutic aide les entreprises à construire une présence en ligne forte, dynamique et authentique afin de se démarquer. C’est pourquoi nous avons développé une expertise pointue en marketing digital, permettant aux entreprises de raconter leur histoire de manière captivante et engageante.</p>
                     <br>
